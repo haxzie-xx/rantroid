@@ -1,7 +1,8 @@
-package me.haxzie.rantroid
+package me.haxzie.rantroid.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import me.haxzie.rantroid.R
 
 class MainActivity : AppCompatActivity() {
 
